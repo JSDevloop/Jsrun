@@ -22,6 +22,7 @@ function Main(program)
     //Starts
     program.showMenu(menuContent);
     function btd() {
+        //Binary To Decimal
         var data = program.input('> ');
         program.print("Input: " + data);
         resultData = ConvertToDecimal(data);
