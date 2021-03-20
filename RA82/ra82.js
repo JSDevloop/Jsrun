@@ -5,6 +5,7 @@ const { Run } = require("./Run");
 //Runs the main
 Run(Main);
 
+//Main function
 function Main(program)
 {
     //Content Of Selecting Menu
