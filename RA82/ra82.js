@@ -19,6 +19,7 @@ function Main(program)
             }
         ]
     };
+    //Starts
     program.showMenu(menuContent);
     function btd() {
         var data = program.input('> ');
