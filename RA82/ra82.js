@@ -2,6 +2,7 @@ const { ConvertToRA82 } = require("./ConvertToRA82");
 const { ConvertToDecimal } = require("./ConvertToDecimal");
 const { Run } = require("./Run");
 
+//Runs the main
 Run(Main);
 
 function Main(program)
