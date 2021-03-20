@@ -17,7 +17,7 @@ function Main(program)
         items: [
             {
                 description: "Binary to Decimal",
-                invoke: btd
+                invoke: btd 
             },
             {
                 description: "Decimal To Binary",
