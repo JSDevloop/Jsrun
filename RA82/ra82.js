@@ -28,6 +28,7 @@ function Main(program)
         program.print("Output: " + resultData);
     }
     function dtb() {
+        //Decimal To Binary
         var data = program.input('> ');
         program.print("Input: " + data);
         resultData = ConvertToRA82(data);
