@@ -1,6 +1,8 @@
+//#region Using
 const { ConvertToRA82 } = require("./ConvertToRA82");
 const { ConvertToDecimal } = require("./ConvertToDecimal");
 const { Run } = require("./Run");
+//#endregion Using
 
 //Runs the main
 Run(Main);
